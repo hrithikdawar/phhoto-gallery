@@ -13,6 +13,7 @@ html,body{
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
     
 }
 
@@ -20,7 +21,8 @@ html,body{
     background-image: url(/img/asset\ 22.jpeg);
     background-position: center;
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
 }
 .r1>img{
     margin: 10px ;
